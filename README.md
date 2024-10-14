@@ -18,8 +18,15 @@ The resulting maps offer valuable insights into the spatial distribution of tick
 
 
 
-https://github.zhaw.ch/guest-0076/TickAttachmentSwitzerland2024/assets/7374/e8613168-41c8-47b7-9053-07be6bc36481
-
+<div class="embed-container">
+  <iframe
+      width="700"
+      height="480"
+      src="https://drive.google.com/drive/folders/1J6eYRHeD95JsCXdo43tOgzO7m_KQG04S?dmr=1&ec=wgc-drive-hero-goto"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
 
 
 ## 📂 Repository Contents
