@@ -18,17 +18,6 @@ The resulting maps offer valuable insights into the spatial distribution of tick
 
 
 
-<div class="embed-container">
-  <iframe
-      width="700"
-      height="480"
-      src="https://drive.google.com/drive/folders/1J6eYRHeD95JsCXdo43tOgzO7m_KQG04S?dmr=1&ec=wgc-drive-hero-goto"
-      frameborder="0"
-      allowfullscreen="true">
-  </iframe>
-</div>
-
-
 ## 📂 Repository Contents
 - **R/data_preparation**: Includes scripts used for data processing.
 - **R/modeling**: Includes all R scripts for modeling, testing and mapping.
